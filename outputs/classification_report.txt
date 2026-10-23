@@ -1,0 +1,20 @@
+PNR Waitlist Confirmation - Classification Report
+=======================================================
+
+               precision    recall  f1-score   support
+
+Not Confirmed       0.93      0.90      0.91      3256
+    Confirmed       0.89      0.92      0.90      2744
+
+     accuracy                           0.91      6000
+    macro avg       0.91      0.91      0.91      6000
+ weighted avg       0.91      0.91      0.91      6000
+
+
+Summary Metrics
+------------------------------
+      accuracy: 0.9092
+     precision: 0.8862
+        recall: 0.9195
+      f1_score: 0.9025
+       roc_auc: 0.969
